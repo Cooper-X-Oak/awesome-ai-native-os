@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-labelledby="title desc">
+  <title id="title">Awesome AI-Native OS</title>
+  <desc id="desc">An atlas of AI-native production systems and domain operating layers.</desc>
+  <rect width="1280" height="640" fill="#f7f8f4"/>
+  <rect x="70" y="68" width="1140" height="504" rx="28" fill="#ffffff" stroke="#1d2a2e" stroke-width="3"/>
+  <text x="118" y="158" fill="#1d2a2e" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="72" font-weight="800">Awesome AI-Native OS</text>
+  <text x="122" y="222" fill="#35515a" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="31" font-weight="500">AI-native production systems and domain operating layers</text>
+
+  <g fill="none" stroke="#1d2a2e" stroke-width="3">
+    <rect x="122" y="300" width="230" height="86" rx="16"/>
+    <rect x="406" y="300" width="230" height="86" rx="16"/>
+    <rect x="690" y="300" width="230" height="86" rx="16"/>
+    <path d="M352 343 H406"/>
+    <path d="M636 343 H690"/>
+    <path d="M920 343 H1004"/>
+  </g>
+
+  <g font-family="Inter, Segoe UI, Arial, sans-serif" text-anchor="middle">
+    <text x="237" y="336" fill="#1d2a2e" font-size="25" font-weight="700">Scene</text>
+    <text x="237" y="368" fill="#4f6972" font-size="20">business workflow</text>
+    <text x="521" y="336" fill="#1d2a2e" font-size="25" font-weight="700">Core Object</text>
+    <text x="521" y="368" fill="#4f6972" font-size="20">durable artifact</text>
+    <text x="805" y="336" fill="#1d2a2e" font-size="25" font-weight="700">Operating Model</text>
+    <text x="805" y="368" fill="#4f6972" font-size="20">human-AI loop</text>
+  </g>
+
+  <rect x="1004" y="300" width="154" height="86" rx="16" fill="#1d2a2e"/>
+  <text x="1081" y="337" fill="#ffffff" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="25" font-weight="800" text-anchor="middle">Atlas</text>
+  <text x="1081" y="369" fill="#d4eee8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20" text-anchor="middle">100 systems</text>
+
+  <g font-family="Inter, Segoe UI, Arial, sans-serif" font-size="23" fill="#35515a">
+    <text x="122" y="474">Video / App Building / Code Delivery / Research / Data / GTM</text>
+    <text x="122" y="516">Not tools. Not chatbots. Production loops for real domain work.</text>
+  </g>
+</svg>
+

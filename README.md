@@ -4,10 +4,34 @@
 >
 > AI 原生生产系统与领域操作层图谱。
 
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
+[![Candidates](https://img.shields.io/badge/candidates-100-blue.svg)](scenes/)
+[![Scenes](https://img.shields.io/badge/scenes-9-green.svg)](scenes/)
+[![Case Cards](https://img.shields.io/badge/case%20cards-12-orange.svg)](cases/)
+
 ## Language
 
 - [English](#english)
 - [中文](#中文)
+
+## Start Here
+
+| If you want to... | Go to |
+| --- | --- |
+| Understand the category | [taxonomy.md](taxonomy.md) |
+| Check what qualifies | [inclusion-criteria.md](inclusion-criteria.md) |
+| Browse by business scene | [scenes/](scenes/) |
+| Read priority case-card stubs | [cases/](cases/) |
+| Suggest a project | [Project suggestion issue](.github/ISSUE_TEMPLATE/project-suggestion.md) |
+
+## Current Coverage
+
+```text
+9 business scenes
+100 candidate systems
+12 priority case cards
+1 classification frame: Scene x Core Object x Operating Model
+```
 
 ---
 
@@ -34,6 +58,18 @@ It has:
 5. inspectable state and memory,
 6. human control points,
 7. a concrete delivery boundary.
+
+### The Classification Frame
+
+```text
+Scene x Core Object x Operating Model
+```
+
+This means each project is read through three questions:
+
+1. What business scene does it solve?
+2. What business object does it make durable and operable?
+3. What operating model lets humans and AI produce together?
 
 ### Why This Exists
 
@@ -126,6 +162,10 @@ The durable question for every entry:
 What business object did this system make AI-operable?
 ```
 
+### License
+
+This atlas is licensed under [Creative Commons Attribution 4.0 International](LICENSE).
+
 ---
 
 ## 中文
@@ -151,6 +191,18 @@ Awesome AI-Native OS 是一个 AI 原生生产系统图谱。
 5. 可检查的状态与记忆，
 6. 人类控制点，
 7. 明确的交付边界。
+
+### 分类框架
+
+```text
+业务场景 x 核心业务对象 x 操作模型
+```
+
+也就是每个项目都要回答三个问题：
+
+1. 它解决什么业务场景？
+2. 它把什么业务对象变成了可持久、可操作的对象？
+3. 它用什么操作模型让人类和 AI 一起生产？
 
 ### 为什么需要这个仓库
 
@@ -242,3 +294,7 @@ AI-Native Production OS
 ```text
 这个系统把哪个业务对象变成了 AI 可操作对象？
 ```
+
+### 许可证
+
+本图谱采用 [Creative Commons Attribution 4.0 International](LICENSE) 许可。
