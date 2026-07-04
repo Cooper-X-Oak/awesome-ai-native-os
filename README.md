@@ -22,6 +22,7 @@
 | Check what qualifies | [inclusion-criteria.md](inclusion-criteria.md) |
 | Browse by business scene | [scenes/](scenes/) |
 | Read priority case-card stubs | [cases/](cases/) |
+| Follow the bilingual documentation structure | [docs/bilingual-structure.md](docs/bilingual-structure.md) |
 | Suggest a project | [Project suggestion issue](.github/ISSUE_TEMPLATE/project-suggestion.md) |
 
 ## Current Coverage
