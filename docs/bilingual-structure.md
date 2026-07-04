@@ -77,7 +77,7 @@ case-card templates
 new public guide documents
 ```
 
-Scene pages and case cards should become bilingual when they are promoted from stub/index status to maintained public documentation.
+Scene pages and case cards are public documentation. They must be bilingual by default, including stubs and templates.
 
 ### Allowed Exceptions
 
@@ -195,7 +195,7 @@ case-card templates
 新的公开说明文档
 ```
 
-场景页和案例卡如果从 stub/index 状态升级为正式维护文档，也应该补成双语。
+场景页和案例卡属于公开文档。它们默认必须双语，包括 stub 和模板。
 
 ### 允许例外
 
