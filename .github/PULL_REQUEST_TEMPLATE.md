@@ -1,49 +1,8 @@
-## Language
-
-- [English](#english)
-- [中文](#中文)
-
----
-
-## English
-
-### What Changed
-
-Describe what this PR adds or changes.
-
-### Contribution Type
-
-- [ ] New project
-- [ ] Scene update
-- [ ] Case card update
-- [ ] Taxonomy / criteria update
-- [ ] Evidence correction
-- [ ] Downgrade / removal
-- [ ] Bilingual documentation update
-
-### Checklist
-
-- [ ] The project has a clear business scene.
-- [ ] The project has a durable production object.
-- [ ] The project has a shared human-AI operating space.
-- [ ] The project has a concrete delivery boundary.
-- [ ] Evidence links are included.
-- [ ] Evidence and interpretation are separated.
-- [ ] Public documentation follows [docs/bilingual-structure.md](../docs/bilingual-structure.md).
-
-### Evidence
-
-Add official links, docs, GitHub repos, demos, or screenshots.
-
----
-
-## 中文
-
-### 改了什么
+## 改了什么
 
 说明这个 PR 新增或修改了什么。
 
-### 贡献类型
+## 贡献类型
 
 - [ ] 新项目
 - [ ] 场景更新
@@ -53,7 +12,7 @@ Add official links, docs, GitHub repos, demos, or screenshots.
 - [ ] 降级 / 移除
 - [ ] 双语文档更新
 
-### 检查清单
+## 检查清单
 
 - [ ] 项目有明确业务场景。
 - [ ] 项目有可持久化生产对象。
